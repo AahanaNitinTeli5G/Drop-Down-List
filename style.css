@@ -1,0 +1,5 @@
+@import url(RampartOne-Regular.ttf); 
+body{background-image: url(maxresdefault.jpg); background-repeat: no-repeat; background-size: cover; font-family:Rampart;}
+label{font-size: 30px; font-weight: inherit; color: lightcoral; }
+select{width: 200px; height: 40px; font-size: 20px; color:blueviolet; border-radius: 10px; border: 3px palegreen; margin: top 20px; ;}
+input{}
